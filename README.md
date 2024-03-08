@@ -1,7 +1,7 @@
 This is my adventure on the SolDev Solana Basics Course.
 
 ## Acknowledgments
-This project was inspired by and includes concepts taught in the Soldev course. For detailed information and original content, please visit [Soldev's website](https://www.soldev.app/).
+This project was inspired by and includes concepts taught in the SolDev course. For detailed information and original content, please visit [SolDev's website](https://www.soldev.app/).
 
 # Solana SolDevBasics Project
 
