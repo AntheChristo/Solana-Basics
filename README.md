@@ -1,5 +1,8 @@
 This is my adventure on the SolDev Solana Basics Course.
 
+## Acknowledgments
+This project was inspired by and includes concepts taught in the Soldev course. For detailed information and original content, please visit [Soldev's website](https://www.soldev.app/).
+
 # Solana SolDevBasics Project
 
 This project explores various actions within the Solana blockchain ecosystem, specifically through the `generate-keypair.ts` script. 
